@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/c3p0-0.9.5.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cos.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/fastjson-1.2.32.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/freemarker-2.3.20.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jetty-server-8.1.8.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jfinal-3.0-bin-with-src.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jsoup-1.10.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mchange-commons-java-0.2.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/sqlite-jdbc-3.8.7.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ffmpeg-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javacpp.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javacv.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/opencv-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/opencv.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jave-1.0.2.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
